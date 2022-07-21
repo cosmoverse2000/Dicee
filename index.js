@@ -1,4 +1,4 @@
-alert("\nWelcome!!!, to 'Dicee' Game.  \n\n•Here, two Dice are appearing infront of you .\n•The number in dice is generated randomly by computer only, to play the game you just have to REFRESH the page and random number will be generated on both dice and whichever is Greater Player will WIN.\n•To play again - refresh again.\n\n CLICK OK!!!")
+alert("\nWelcome!!!, to 'Dicee' Game.  \n\n•Hereafter, two Dices will appear infront of you .\n•The number's in the dice is generated randomly by computer only, to play the game you just have to REFRESH the page and random number's will be generated on both the dices and whichever number is Greater, The Player will WIN.\n•To play again - refresh again.\n\n CLICK OK!!!")
 function functionName() {
   var rannum1 = "images/dice" + Math.floor(Math.random() * 6 + 1) + ".png";
   var rannum2 = "images/dice" + Math.floor(Math.random() * 6 + 1) + ".png";
