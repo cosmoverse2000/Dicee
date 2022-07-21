@@ -1,0 +1,27 @@
+body {
+  font-family: "Satisfy", "Montserrat", "serif";
+  font-size: 2rem;
+  color: lightgreen;
+  width: 98%;
+  text-align: center;
+  background-color: lightslategray;
+}
+
+h1 {
+  margin: 3%;
+  font-weight: 900;
+  font-size: 5rem;
+}
+.row {
+  padding: 0 25% 0 25%;
+}
+.contacted {
+  margin-top: 10%;
+  font-family: "Satisfy", "Montserrat", "serif";
+  font-size: 2rem;
+  color: lightgreen;
+}
+.dice1,
+.dice2 {
+  width: 170px;
+}
