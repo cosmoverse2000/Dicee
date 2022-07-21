@@ -16,7 +16,6 @@ h1 {
   padding: 0 25% 0 25%;
 }
 .contacted {
-  margin-top: 10%;
   font-family: "Satisfy", "Montserrat", "serif";
   font-size: 2rem;
   color: lightgreen;
@@ -24,4 +23,9 @@ h1 {
 .dice1,
 .dice2 {
   width: 170px;
+}
+.btn1 {
+  margin: 4% 0;
+  background-color: lightgreen;
+  border-radius: 12px;
 }
